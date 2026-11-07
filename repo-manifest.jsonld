@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.rabbitmq/commit/4c5ceeee342ebd931128e62312833393eb4fd599",
       "git:hexsha": "4c5ceeee342ebd931128e62312833393eb4fd599",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.7.0"
     },
     {
