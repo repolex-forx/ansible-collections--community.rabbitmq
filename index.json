@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.rabbitmq",
+  "versions": [
+    {
+      "commit": "4c5ceeee342ebd931128e62312833393eb4fd599",
+      "tag": "1.7.0",
+      "parsed_at": "2026-11-07T17:08:42.805102+00:00"
+    }
+  ]
+}
